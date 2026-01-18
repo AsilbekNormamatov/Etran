@@ -1,0 +1,26 @@
+.i {
+    background-image: url("../../assets/images/Headerimage.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 87%;
+    height: 100vh;
+    border-radius: 20px;
+    margin: 50px auto;
+}
+
+
+
+
+@media screen and (max-width:800px) {
+    .i {
+        background-image: url("../../assets/images/Headerimage.svg");
+        background-repeat: no-repeat;
+        background-size: contain;
+        height: 50vh;
+        border-radius: 20px;
+        margin: 50px auto 0 auto;
+    }
+    .k{
+        flex-flow: column;
+    }
+}

@@ -1,0 +1,7 @@
+@media screen and (max-width:800px) {
+    .f{
+        flex-flow: column;
+        align-items: center;
+        gap: 30px;
+    }
+}

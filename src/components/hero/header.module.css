@@ -1,0 +1,16 @@
+@media screen and (max-width:800px) {
+    .f{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+    }
+}
+@media screen and (max-width:1240px) {
+    .f{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+    }
+}
